@@ -62,3 +62,6 @@ Thumbs.db
 venv/
 env/
 ENV/
+*.pkl
+*.h5
+*.pt
